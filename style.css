@@ -1,15 +1,16 @@
 body {
     font-family: 'futura';
-    padding: 1rem;
+    padding: 15rem;
+  
   }
   
-  h1 {
+  /* h1 {
       font-family: 'futura';
         font-size: 4rem;
         margin-bottom: 1rem;
       color: #FF69B4;
       text-align: center;
-    }
+    } */
 
 
     td, th {
